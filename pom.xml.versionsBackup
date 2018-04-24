@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.activiti.cloud.examples</groupId>
-  <version>7.0.4</version>
+  <version>1.0</version>
   <artifactId>connectors-ranking</artifactId>
   <name>Activiti Cloud :: Activiti Ranking Cloud Connector</name>
 	<properties>
