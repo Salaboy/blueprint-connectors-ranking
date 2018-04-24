@@ -1,0 +1,6 @@
+org/activiti/cloud/connectors/ranking/RankingController.class
+org/activiti/cloud/connectors/ranking/RankingCloudApplication.class
+org/activiti/cloud/connectors/ranking/UpdateAuthorRankConnector.class
+org/activiti/cloud/connectors/ranking/RankedAuthor.class
+org/activiti/cloud/connectors/ranking/RankingService.class
+org/activiti/cloud/connectors/ranking/RankingConnectorChannels.class
