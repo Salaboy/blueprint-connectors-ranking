@@ -13,8 +13,8 @@ variables:
 container:
   javaOpts: -Xmx512m -Xms512m
 image:
-  repository: draft
-  tag: dev
+  repository: 100.68.140.73:5000/jenkinsx/blueprint-connectors-ranking
+  tag: 7.0.8
   pullPolicy: IfNotPresent
 service:
   name: blueprint-connectors-ranking
